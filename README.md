@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajendram20
 - 👀 I’m interested in java tech stack snf frontend tech
-- 🌱 I’m currently learning Angular and public cloud AWS nad GCLOUD
+- 🌱 I’m currently learning Angular and public cloud AWS & GCLOUD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
